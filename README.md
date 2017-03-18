@@ -59,6 +59,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 **Domain-specific tools.**
 
 - [Rekrei](https://github.com/rekrei/rekrei) — Digital recreation of lost heritage.
+- [Kort](https://github.com/kort/kort) — Improving OpenStreetMap through gamification.
 
 **Behavioral & social science experiments.**
 
