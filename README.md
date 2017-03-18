@@ -56,6 +56,10 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [turksurveyor](https://code.google.com/archive/p/turksurveyor/)
 - [Vulyk](https://vulyk.readthedocs.io/)
 
+**Domain-specific tools.**
+
+- [Rekrei](https://github.com/rekrei/rekrei) — Digital recreation of lost heritage.
+
 **Behavioral & social science experiments.**
 
 - [Bonn Experiment System](http://boxs.uni-bonn.de/)
