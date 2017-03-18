@@ -8,6 +8,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [Software](#software)
 - [Citizen-science experiments](#citizen-science-experiments)
 - [Conferences](#conferences)
+- [Tutorials & Advice](#tutorials-&-advice)
 - [Contributing](#contributing)
 
 ---
@@ -113,6 +114,10 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [COBE](http://conference.researchbib.com/view/event/55323) — Workshop on crowdsourcing and online behavioral experiments.
 - [Crowdsourcing Week](http://crowdsourcingweek.com/)
 - [World Wide Web Conference Crowdsourcing Track](http://www2017.com.au/call-for-papers/crowdsourcing.php)
+
+## Tutorials & Advice
+
+- [Repeated online panel experiments](https://github.com/dbroockman/repeated-online-panel-experiments) — Instructions for repeated online panel experiments
 
 ## Contributing
 
