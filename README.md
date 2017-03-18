@@ -47,6 +47,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [Clockwork Raven](http://twitter.github.io/clockworkraven/)
 - [cloudfactory](https://www.cloudfactory.com/)
 - [CrowdForge](http://smus.com/crowdforge/)
+- [Hive](https://github.com/nytlabs/hive)
 - [OneSpace](https://www.onespace.com/)
 - [Orchestra](http://orchestra.b12.io/)
 - [pybossa](http://pybossa.com/)
