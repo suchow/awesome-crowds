@@ -102,7 +102,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [Games with words](http://gameswithwords.org/)
 - [iPsychExpts](http://www.ipsychexpts.com/)
 - [Lab in the wild](http://labinthewild.org/)
-- [Project Implicit](https://www.projectimplicit.net/index.html)
+- [Project Implicit](https://implicit.harvard.edu/implicit/takeatest.html)
 - [TestMyBrain](http://testmybrain.org/)
 - [Volunteer Science](https://volunteerscience.com/)
 
