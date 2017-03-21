@@ -104,6 +104,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [Lab in the wild](http://labinthewild.org/)
 - [Project Implicit](https://www.projectimplicit.net/index.html)
 - [TestMyBrain](http://testmybrain.org/)
+- [Volunteer Science](https://volunteerscience.com/)
 
 ## Conferences
 
