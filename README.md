@@ -20,6 +20,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 
 - [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome)
 - [CrowdFlower](https://www.crowdflower.com/)
+- [Prime Panels](https://www.turkprime.com/Service/PrimePanels)
 - [Prolific Academic](https://prolific.ac/)
 - [UpWork](https://www.upwork.com/)
 - [TaskRabbit](https://www.taskrabbit.com/)
