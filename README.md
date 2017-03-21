@@ -6,7 +6,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [Prediction Markets](#prediction-markets)
 - [Competitions](#competitions)
 - [Software](#software)
-- [Citizen-science experiments](#citizen-science-experiments)
+- [Citizen-science experiments & experiential learning](#citizen-science-experiments-&-experiential-learning)
 - [Conferences](#conferences)
 - [Tutorials & Advice](#tutorials-&-advice)
 - [Contributing](#contributing)
@@ -86,7 +86,6 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [PsyToolkit](http://www.psytoolkit.org/experiment-library/)
 - [Seaweed](http://dl.acm.org/citation.cfm?id=1600162)
 - [tatool](http://www.tatool-web.com/#/)
-- [TELLab](http://tellab.fas.harvard.edu/)
 - [The Experiment Factory](https://expfactory.github.io/)
 - [TurkServer](http://turkserver.readthedocs.io/en/latest/)
 - [vcweb](https://github.com/virtualcommons/vcweb)
@@ -94,15 +93,16 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [Wextor](http://wextor.org/wextor/en/)
 - [XTribe](http://www.xtribe.eu/)
 
-## Citizen-science experiments
+## Citizen-science experiments & experiential learning
 
-**Collecting data through online games.**
+**Volunteer science, teaching tools, and experiential learning.**
 
 - [Face Research](http://www.faceresearch.org/)
 - [Games with words](http://gameswithwords.org/)
 - [iPsychExpts](http://www.ipsychexpts.com/)
 - [Lab in the wild](http://labinthewild.org/)
 - [Project Implicit](https://implicit.harvard.edu/implicit/takeatest.html)
+- [TELLab](http://tellab.fas.harvard.edu/)
 - [TestMyBrain](http://testmybrain.org/)
 - [Volunteer Science](https://volunteerscience.com/)
 
