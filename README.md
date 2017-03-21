@@ -5,6 +5,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [Crowds](#crowds)
 - [Prediction Markets](#prediction-markets)
 - [Competitions](#competitions)
+- [Crowdfunding](#crowdfunding)
 - [Software](#software)
 - [Citizen-science experiments & experiential learning](#citizen-science-experiments-&-experiential-learning)
 - [Conferences](#conferences)
@@ -40,6 +41,16 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [Kaggle](https://www.kaggle.com/)
 - [Netflix Prize](http://www.netflixprize.com/)
 - [99 Designs](http://99designs.com/)
+
+## Crowdfunding
+
+**Funding by many, small contributions.**
+
+- [gofundme](https://www.gofundme.com/)
+- [Indiegogo](https://www.indiegogo.com/)
+- [Kickstarter](https://www.kickstarter.com/)
+- [Kiva](https://www.kiva.org/)
+- [Patreon](https://www.patreon.com/)
 
 ## Software
 
