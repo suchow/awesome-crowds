@@ -96,6 +96,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 ## Citizen-science experiments & experiential learning
 
 **Volunteer science.**
+
 - [Face Research](http://www.faceresearch.org/)
 - [Games with words](http://gameswithwords.org/)
 - [iPsychExpts](http://www.ipsychexpts.com/)
@@ -105,10 +106,12 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [Volunteer Science](https://volunteerscience.com/)
 
 **Teaching tools & experiential learning**
+
 - [Online Psychology Laboratory](http://opl.apa.org/)
 - [TELLab](http://tellab.fas.harvard.edu/)
 
 **Brain training**
+
 - [brainHQ](https://www.brainhq.com)
 - [Lumosity](https://www.lumosity.com/)
 - [NeuroNation](https://www.neuronation.com/)
