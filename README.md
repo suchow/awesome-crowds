@@ -119,8 +119,9 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [TestMyBrain](http://testmybrain.org/)
 - [Volunteer Science](https://volunteerscience.com/)
 
-**Teaching tools & experiential learning**
+**Teaching tools, experiential learning, and demos**
 
+- [GoCognitive](http://gocognitive.net/)
 - [Online Psychology Laboratory](http://opl.apa.org/)
 - [TELLab](http://tellab.fas.harvard.edu/)
 
