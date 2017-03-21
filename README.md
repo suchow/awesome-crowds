@@ -121,6 +121,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 
 **Teaching tools, experiential learning, and demos**
 
+- [Cambrige Brain Sciences](http://www.cambridgebrainsciences.com/)
 - [GoCognitive](http://gocognitive.net/)
 - [Online Psychology Laboratory](http://opl.apa.org/)
 - [TELLab](http://tellab.fas.harvard.edu/)
