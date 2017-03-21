@@ -109,6 +109,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [TELLab](http://tellab.fas.harvard.edu/)
 
 **Brain training**
+- [brainHQ](https://www.brainhq.com)
 - [Lumosity](https://www.lumosity.com/)
 - [NeuroNation](https://www.neuronation.com/)
 
