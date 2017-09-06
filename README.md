@@ -96,6 +96,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [MWert](https://github.com/hawkrobe/MWERT)
 - [Nodegame](http://nodegame.org/)
 - [Nodeshot](http://docs.nodeshot.org/en/latest/)
+- [OpenSesame](http://osdoc.cogsci.nl/)
 - [oTree](http://www.otree.org/)
 - [psiTurk](https://psiturk.org/)
 - [PsyToolkit](http://www.psytoolkit.org/experiment-library/)
