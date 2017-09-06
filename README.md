@@ -89,6 +89,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [GXP](http://gxp.world/)
 - [IBSEN](http://ibsen-h2020.eu/)
 - [Inquisit](http://www.millisecond.com/)
+- [jsPsych](http://www.jspsych.org/)
 - [Metadata Games](http://www.metadatagames.org/)
 - [MobLab](https://www.moblab.com/)
 - [MWert](https://github.com/hawkrobe/MWERT)
