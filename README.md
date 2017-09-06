@@ -90,6 +90,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [IBSEN](http://ibsen-h2020.eu/)
 - [Inquisit](http://www.millisecond.com/)
 - [jsPsych](http://www.jspsych.org/)
+- [LIONESS Lab](http://lioness.classex.de/)
 - [Metadata Games](http://www.metadatagames.org/)
 - [MobLab](https://www.moblab.com/)
 - [MWert](https://github.com/hawkrobe/MWERT)
