@@ -101,6 +101,7 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [psiTurk](https://psiturk.org/)
 - [PsyToolkit](http://www.psytoolkit.org/experiment-library/)
 - [Seaweed](http://dl.acm.org/citation.cfm?id=1600162)
+- [SoPHIE](https://www.sophie.uni-osnabrueck.de/)
 - [Stato.de](http://stato.de/)
 - [tatool](http://www.tatool-web.com/#/)
 - [The Experiment Factory](https://expfactory.github.io/)
