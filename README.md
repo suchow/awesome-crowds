@@ -65,9 +65,14 @@ A curated list of awesome resources on crowdsourcing and online behavioral exper
 - [Orchestra](http://orchestra.b12.io/)
 - [pybossa](http://pybossa.com/)
 - [Testable](http://www.testable.org/)
-- [TurKit](http://groups.csail.mit.edu/uid/turkit/)
 - [turksurveyor](https://code.google.com/archive/p/turksurveyor/)
 - [Vulyk](https://vulyk.readthedocs.io/)
+
+**Programming with people**
+
+- [Automan](http://dbarowy.github.io/AutoMan/)
+- [TurKit](http://groups.csail.mit.edu/uid/turkit/)
+- [VoxPL](https://www.microsoft.com/en-us/research/publication/voxpl-programming-wisdom-crowd/)
 
 **Domain-specific tools.**
 
