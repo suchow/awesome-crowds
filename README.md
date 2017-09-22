@@ -1,5 +1,7 @@
 # Awesome crowdsourcing, human computation, & online behavioral experiments [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+<img src="http://suchow.io/images/head.png"/>
+
 A curated list of awesome resources on crowdsourcing, human computation, and online behavioral experiments.
 
 - [Crowds](#crowds)
