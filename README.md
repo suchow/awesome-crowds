@@ -27,7 +27,7 @@ A curated list of awesome resources on crowdsourcing, human computation, and onl
 - [UpWork](https://www.upwork.com/)
 - [TaskRabbit](https://www.taskrabbit.com/)
 - [clickworker](http://clickworker.com/)
-- [OneSpace](www.onespace.com)
+- [OneSpace](https://www.onespace.com)
 
 ## Prediction markets
 
